@@ -1,0 +1,384 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.1  0.0 225992  9824 ?        Ss   10:56   0:34 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    10:56   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        I<   10:56   0:00 [rcu_gp]
+root         4  0.0  0.0      0     0 ?        I<   10:56   0:00 [rcu_par_gp]
+root         6  0.0  0.0      0     0 ?        I<   10:56   0:00 [kworker/0:0H-kb]
+root         9  0.0  0.0      0     0 ?        I<   10:56   0:00 [mm_percpu_wq]
+root        10  0.0  0.0      0     0 ?        S    10:56   0:00 [ksoftirqd/0]
+root        11  0.0  0.0      0     0 ?        I    10:56   0:15 [rcu_sched]
+root        12  0.0  0.0      0     0 ?        S    10:56   0:00 [migration/0]
+root        13  0.0  0.0      0     0 ?        S    10:56   0:00 [idle_inject/0]
+root        14  0.0  0.0      0     0 ?        S    10:56   0:00 [cpuhp/0]
+root        15  0.0  0.0      0     0 ?        S    10:56   0:00 [cpuhp/1]
+root        16  0.0  0.0      0     0 ?        S    10:56   0:00 [idle_inject/1]
+root        17  0.0  0.0      0     0 ?        S    10:56   0:00 [migration/1]
+root        18  0.0  0.0      0     0 ?        S    10:56   0:00 [ksoftirqd/1]
+root        20  0.0  0.0      0     0 ?        I<   10:56   0:00 [kworker/1:0H-kb]
+root        21  0.0  0.0      0     0 ?        S    10:56   0:00 [cpuhp/2]
+root        22  0.0  0.0      0     0 ?        S    10:56   0:00 [idle_inject/2]
+root        23  0.0  0.0      0     0 ?        S    10:56   0:00 [migration/2]
+root        24  0.0  0.0      0     0 ?        S    10:56   0:00 [ksoftirqd/2]
+root        26  0.0  0.0      0     0 ?        I<   10:56   0:00 [kworker/2:0H-kb]
+root        27  0.0  0.0      0     0 ?        S    10:56   0:00 [cpuhp/3]
+root        28  0.0  0.0      0     0 ?        S    10:56   0:00 [idle_inject/3]
+root        29  0.0  0.0      0     0 ?        S    10:56   0:00 [migration/3]
+root        30  0.0  0.0      0     0 ?        S    10:56   0:00 [ksoftirqd/3]
+root        32  0.0  0.0      0     0 ?        I<   10:56   0:00 [kworker/3:0H-kb]
+root        33  0.0  0.0      0     0 ?        S    10:56   0:00 [cpuhp/4]
+root        34  0.0  0.0      0     0 ?        S    10:56   0:00 [idle_inject/4]
+root        35  0.0  0.0      0     0 ?        S    10:56   0:00 [migration/4]
+root        36  0.0  0.0      0     0 ?        S    10:56   0:00 [ksoftirqd/4]
+root        38  0.0  0.0      0     0 ?        I<   10:56   0:00 [kworker/4:0H-kb]
+root        39  0.0  0.0      0     0 ?        S    10:56   0:00 [cpuhp/5]
+root        40  0.0  0.0      0     0 ?        S    10:56   0:00 [idle_inject/5]
+root        41  0.0  0.0      0     0 ?        S    10:56   0:00 [migration/5]
+root        42  0.0  0.0      0     0 ?        S    10:56   0:00 [ksoftirqd/5]
+root        44  0.0  0.0      0     0 ?        I<   10:56   0:00 [kworker/5:0H-kb]
+root        45  0.0  0.0      0     0 ?        S    10:56   0:00 [cpuhp/6]
+root        46  0.0  0.0      0     0 ?        S    10:56   0:00 [idle_inject/6]
+root        47  0.0  0.0      0     0 ?        S    10:56   0:00 [migration/6]
+root        48  0.0  0.0      0     0 ?        S    10:56   0:00 [ksoftirqd/6]
+root        50  0.0  0.0      0     0 ?        I<   10:56   0:00 [kworker/6:0H-kb]
+root        51  0.0  0.0      0     0 ?        S    10:56   0:00 [cpuhp/7]
+root        52  0.0  0.0      0     0 ?        S    10:56   0:00 [idle_inject/7]
+root        53  0.0  0.0      0     0 ?        S    10:56   0:00 [migration/7]
+root        54  0.0  0.0      0     0 ?        S    10:56   0:00 [ksoftirqd/7]
+root        56  0.0  0.0      0     0 ?        I<   10:56   0:00 [kworker/7:0H-kb]
+root        57  0.0  0.0      0     0 ?        S    10:56   0:00 [kdevtmpfs]
+root        58  0.0  0.0      0     0 ?        I<   10:56   0:00 [netns]
+root        59  0.0  0.0      0     0 ?        S    10:56   0:00 [rcu_tasks_kthre]
+root        60  0.0  0.0      0     0 ?        S    10:56   0:00 [kauditd]
+root        61  0.0  0.0      0     0 ?        S    10:56   0:00 [khungtaskd]
+root        62  0.0  0.0      0     0 ?        S    10:56   0:00 [oom_reaper]
+root        63  0.0  0.0      0     0 ?        I<   10:56   0:00 [writeback]
+root        64  0.0  0.0      0     0 ?        S    10:56   0:00 [kcompactd0]
+root        65  0.0  0.0      0     0 ?        SN   10:56   0:00 [ksmd]
+root        66  0.0  0.0      0     0 ?        SN   10:56   0:00 [khugepaged]
+root       159  0.0  0.0      0     0 ?        I<   10:56   0:00 [kintegrityd]
+root       160  0.0  0.0      0     0 ?        I<   10:56   0:00 [kblockd]
+root       161  0.0  0.0      0     0 ?        I<   10:56   0:00 [blkcg_punt_bio]
+root       164  0.0  0.0      0     0 ?        I<   10:56   0:00 [tpm_dev_wq]
+root       166  0.0  0.0      0     0 ?        I<   10:56   0:00 [ata_sff]
+root       167  0.0  0.0      0     0 ?        I<   10:56   0:00 [md]
+root       168  0.0  0.0      0     0 ?        I<   10:56   0:00 [edac-poller]
+root       169  0.0  0.0      0     0 ?        I<   10:56   0:00 [devfreq_wq]
+root       171  0.0  0.0      0     0 ?        S    10:56   0:00 [watchdogd]
+root       176  0.0  0.0      0     0 ?        S    10:56   0:00 [kswapd0]
+root       178  0.0  0.0      0     0 ?        S    10:56   0:00 [ecryptfs-kthrea]
+root       181  0.0  0.0      0     0 ?        I<   10:56   0:00 [kthrotld]
+root       182  0.0  0.0      0     0 ?        S    10:56   0:00 [irq/123-aerdrv]
+root       183  0.0  0.0      0     0 ?        S    10:56   0:00 [irq/124-aerdrv]
+root       184  0.0  0.0      0     0 ?        S    10:56   0:00 [irq/125-aerdrv]
+root       185  0.0  0.0      0     0 ?        I<   10:56   0:00 [acpi_thermal_pm]
+root       190  0.0  0.0      0     0 ?        I<   10:56   0:00 [ipv6_addrconf]
+root       201  0.0  0.0      0     0 ?        I<   10:56   0:00 [kstrp]
+root       220  0.0  0.0      0     0 ?        I<   10:56   0:00 [charger_manager]
+root       281  0.0  0.0      0     0 ?        S    10:56   0:00 [scsi_eh_0]
+root       282  0.0  0.0      0     0 ?        I<   10:56   0:00 [scsi_tmf_0]
+root       283  0.0  0.0      0     0 ?        S    10:56   0:00 [scsi_eh_1]
+root       284  0.0  0.0      0     0 ?        I<   10:56   0:00 [scsi_tmf_1]
+root       288  0.0  0.0      0     0 ?        I<   10:56   0:00 [kworker/3:1H-ev]
+root       318  0.0  0.0      0     0 ?        I<   10:56   0:00 [kworker/6:1H-kb]
+root       320  0.0  0.0      0     0 ?        I<   10:56   0:00 [kworker/7:1H-kb]
+root       321  0.0  0.0      0     0 ?        S    10:56   0:00 [jbd2/sdb5-8]
+root       322  0.0  0.0      0     0 ?        I<   10:56   0:00 [ext4-rsv-conver]
+root       332  0.0  0.0      0     0 ?        I<   10:56   0:00 [kworker/0:1H-kb]
+root       336  0.0  0.0      0     0 ?        I<   10:56   0:00 [kworker/1:1H-ev]
+root       353  0.0  0.0      0     0 ?        I<   10:56   0:00 [kworker/2:1H-ev]
+root       355  0.0  0.0      0     0 ?        I<   10:56   0:00 [kworker/5:1H-kb]
+root       356  0.0  0.0      0     0 ?        I<   10:56   0:00 [kworker/4:1H-kb]
+root       365  0.0  0.2 127400 46240 ?        S<s  10:56   0:02 /lib/systemd/systemd-journald
+root       388  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop0]
+root       395  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop1]
+root       397  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop2]
+root       399  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop3]
+root       401  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop4]
+root       403  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop5]
+root       405  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop6]
+root       407  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop7]
+root       409  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop8]
+root       411  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop9]
+root       413  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop10]
+root       415  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop11]
+root       418  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop12]
+root       419  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop13]
+root       421  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop14]
+root       423  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop15]
+root       425  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop16]
+root       427  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop17]
+root       430  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop18]
+root       431  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop19]
+root       436  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop20]
+root       440  0.0  0.0  48036  6292 ?        Ss   10:56   0:02 /lib/systemd/systemd-udevd
+root       441  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop21]
+root       443  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop23]
+root       444  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop24]
+root       445  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop25]
+root       446  0.0  0.0      0     0 ?        S<   10:56   0:00 [loop26]
+root       507  0.0  0.0      0     0 ?        I<   10:57   0:00 [cfg80211]
+root       516  0.0  0.0      0     0 ?        S    10:57   0:02 [irq/51-DELL0802]
+root       521  0.0  0.0      0     0 ?        I<   10:57   0:00 [cryptd]
+root       526  0.3  0.0      0     0 ?        S    10:57   1:44 [irq/130-iwlwifi]
+root       573  0.0  0.0      0     0 ?        I<   10:57   0:00 [nvkm-disp]
+root       594  0.0  0.0      0     0 ?        I<   10:57   0:00 [ttm_swap]
+root       883  0.0  0.0      0     0 ?        S    10:57   0:01 [jbd2/sdb7-8]
+root       884  0.0  0.0      0     0 ?        I<   10:57   0:00 [ext4-rsv-conver]
+systemd+   941  0.0  0.0 146112  3324 ?        Ssl  10:57   0:00 /lib/systemd/systemd-timesyncd
+systemd+   943  0.0  0.0  71268  6808 ?        Ss   10:57   0:01 /lib/systemd/systemd-resolved
+root      1017  0.0  0.0   4548   892 ?        Ss   10:57   0:17 /usr/sbin/acpid
+root      1022  0.0  0.0 110484  3464 ?        Ssl  10:57   0:01 /usr/sbin/irqbalance --foreground
+root      1027  0.0  0.0 186996  9292 ?        Rsl  10:57   0:01 /usr/sbin/thermald --no-daemon --dbus-enable
+message+  1031  0.0  0.0  52584  6376 ?        Ss   10:57   0:05 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root      1044  0.0  0.0  24648  3284 ?        Ss   10:57   0:00 /usr/lib/vmware/view/bin/ftsprhvd
+root      1054  0.0  0.0  33972  2460 ?        Ss   10:57   0:00 /usr/lib/vmware/view/bin/ftscanhvd
+root      1055  0.0  0.1 421988 16488 ?        Sl   10:57   0:00 /usr/lib/vmware/view/bin/ftscanhvd
+root      1058  0.0  0.0  15356  3044 ?        Ss   10:57   0:00 /usr/bin/vmware-usbarbitrator
+root      1077  0.0  0.0  36544  4224 ?        Ss   10:57   0:00 /usr/lib/bluetooth/bluetoothd
+daemon    1078  0.0  0.0  28328  2352 ?        Ss   10:57   0:00 /usr/sbin/atd -f
+root      1079  0.0  0.1 580908 19220 ?        Ssl  10:57   0:05 /usr/sbin/NetworkManager --no-daemon
+root      1081  0.0  0.0 518724 14336 ?        Ssl  10:57   0:05 /usr/lib/udisks2/udisksd
+root      1086  0.0  0.1 177640 17140 ?        Ssl  10:57   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root      1087  0.0  0.0 308548  8568 ?        Ssl  10:57   0:00 /usr/lib/accountsservice/accounts-daemon
+avahi     1088  0.0  0.0  47260  3272 ?        Ss   10:57   0:00 avahi-daemon: running [edgarp-Inspiron-7577.local]
+syslog    1089  0.0  0.0 263032  4476 ?        Ssl  10:57   0:00 /usr/sbin/rsyslogd -n
+root      1090  0.0  0.0 434452 10484 ?        Ssl  10:57   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root      1091  0.0  0.0  38424  3128 ?        Ss   10:57   0:00 /usr/sbin/cron -f
+root      1092  0.0  0.0  45500  7980 ?        Ss   10:57   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root      1093  0.0  0.1 2198404 26704 ?       Ssl  10:57   0:11 /usr/lib/snapd/snapd
+root      1094  0.0  0.0  70748  6268 ?        Ss   10:57   0:06 /lib/systemd/systemd-logind
+root      1120  0.5  0.1 567632 29184 ?        Ssl  10:57   2:50 /opt/cisco/anyconnect/bin/vpnagentd -execv_instance
+avahi     1121  0.0  0.0  47072   340 ?        S    10:57   0:00 avahi-daemon: chroot helper
+root      1176  0.0  0.0 321976 12248 ?        Ssl  10:57   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root      1218  0.0  0.1 194352 19932 ?        Ssl  10:57   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root      1223  0.0  0.0 308188  7812 ?        Ssl  10:57   0:00 /usr/sbin/gdm3
+root      1237  0.0  0.0 261552  8400 ?        Sl   10:57   0:00 gdm-session-worker [pam/gdm-launch-environment]
+root      1255  0.0  0.0   4504   736 ?        S    10:57   0:00 bpfilter_umh
+gdm       1304  0.0  0.0  77180  8292 ?        Ss   10:57   0:00 /lib/systemd/systemd --user
+gdm       1305  0.0  0.0 114384  2964 ?        S    10:57   0:00 (sd-pam)
+gdm       1325  0.0  0.0 197796  5444 tty1     Ssl+ 10:57   0:00 /usr/lib/gdm3/gdm-wayland-session gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm       1327  0.0  0.0  50380  4768 ?        Ss   10:57   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gdm       1330  0.0  0.0 640688 15236 tty1     Sl+  10:57   0:00 /usr/lib/gnome-session/gnome-session-binary --autostart /usr/share/gdm/greeter/autostart
+gdm       1350  0.0  1.1 4394328 193984 tty1   Sl+  10:57   0:18 /usr/bin/gnome-shell
+root      1378  0.0  0.0 388092  8916 ?        Ssl  10:57   0:02 /usr/lib/upower/upowerd
+gdm       1506  0.0  0.3 958084 58412 tty1     Sl+  10:57   0:00 /usr/bin/Xwayland :1024 -rootless -terminate -accessx -core -listen 4 -listen 5 -displayfd 6
+whoopsie  1519  0.0  0.0 468784 12964 ?        Ssl  10:57   0:00 /usr/bin/whoopsie -f
+gdm       1528  0.0  0.0 365604  8308 ?        Ssl  10:57   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+kernoops  1529  0.0  0.0  56940   420 ?        Ss   10:57   0:00 /usr/sbin/kerneloops --test
+kernoops  1532  0.0  0.0  56940   420 ?        Ss   10:57   0:00 /usr/sbin/kerneloops
+gdm       1538  0.0  0.0  49924  3776 ?        S    10:57   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+gdm       1541  0.0  0.0 220764  7088 ?        Sl   10:57   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+gdm       1569  0.0  0.0 1415692 11464 ?       Ssl  10:57   0:00 /usr/bin/pulseaudio --daemonize=no
+rtkit     1580  0.0  0.0 183504  2856 ?        SNsl 10:57   0:00 /usr/lib/rtkit/rtkit-daemon
+gdm       2205  0.0  0.0 375268  9640 tty1     Sl   10:57   0:00 ibus-daemon --xim --panel disable
+gdm       2208  0.0  0.0 294488  7784 tty1     Sl   10:57   0:00 /usr/lib/ibus/ibus-dconf
+gdm       2210  0.0  0.1 491340 29884 tty1     Sl   10:57   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+gdm       2213  0.0  0.0 292432  8012 ?        Sl   10:57   0:00 /usr/lib/ibus/ibus-portal
+gdm       2214  0.0  0.0 271560  4920 ?        Ssl  10:57   0:00 /usr/libexec/xdg-permission-store
+root      2235  0.0  0.2 457052 38588 ?        Ssl  10:57   0:10 /usr/lib/packagekit/packagekitd
+root      2250  0.0  0.0 315232  8564 ?        Ssl  10:57   0:00 /usr/lib/x86_64-linux-gnu/boltd
+gdm       2261  0.0  0.1 639848 30648 tty1     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-xsettings
+gdm       2264  0.0  0.0 294488  8240 tty1     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+gdm       2265  0.0  0.1 490936 29372 tty1     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-clipboard
+gdm       2267  0.0  0.1 813360 31788 tty1     Sl+  10:57   0:02 /usr/lib/gnome-settings-daemon/gsd-color
+gdm       2270  0.0  0.0 393716 13700 tty1     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+gdm       2272  0.0  0.0 283740  5224 tty1     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+gdm       2273  0.0  0.1 643288 29716 tty1     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-keyboard
+gdm       2275  0.0  0.1 1003376 32048 tty1    Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-media-keys
+gdm       2280  0.0  0.0 201996  4588 tty1     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+gdm       2282  0.0  0.1 935156 32180 tty1     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-power
+gdm       2286  0.0  0.0 267012  8592 tty1     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+gdm       2289  0.0  0.0 202016  4528 tty1     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+gdm       2290  0.0  0.0 275732  4712 tty1     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+gdm       2295  0.0  0.0 321448 10308 tty1     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-sharing
+gdm       2298  0.0  0.0 390564  9792 tty1     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+gdm       2300  0.0  0.0 340944  9712 tty1     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-sound
+gdm       2301  0.0  0.1 576152 30828 tty1     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-wacom
+gdm       2319  0.0  0.0 187772  5036 ?        Sl   10:57   0:00 /usr/lib/dconf/dconf-service
+gdm       2326  0.0  0.0 218632  7912 tty1     Sl   10:57   0:00 /usr/lib/ibus/ibus-engine-simple
+colord    2365  0.0  0.0 339608 15728 ?        Ssl  10:57   0:00 /usr/lib/colord/colord
+root      2402  0.0  0.0 415340  9008 ?        Sl   10:57   0:00 gdm-session-worker [pam/gdm-password]
+edgarp    2433  0.0  0.0  77308  8336 ?        Ss   10:57   0:00 /lib/systemd/systemd --user
+edgarp    2434  0.0  0.0 114384  2968 ?        S    10:57   0:00 (sd-pam)
+edgarp    2447  0.0  0.0 288496  7548 ?        Sl   10:57   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+edgarp    2451  0.0  0.0 212132  6032 tty2     Ssl+ 10:57   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu
+edgarp    2453  4.5  0.9 1129132 154876 tty2   Sl+  10:57  23:31 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+edgarp    2472  0.0  0.0  51580  5912 ?        Ss   10:57   0:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+edgarp    2475  0.0  0.1 578180 16396 tty2     Sl+  10:57   0:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+edgarp    2571  0.0  0.0  11300   320 ?        Ss   10:57   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu
+edgarp    2574  0.0  0.0 292068  7208 ?        Ssl  10:57   0:00 /usr/lib/gvfs/gvfsd
+edgarp    2579  0.0  0.0 432020  7788 ?        Sl   10:57   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+edgarp    2589  0.0  0.0 367932  8764 ?        Ssl  10:57   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+edgarp    2594  0.0  0.0  50056  4264 ?        S    10:57   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+edgarp    2596  0.0  0.0 220788  6892 ?        Sl   10:57   0:01 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+edgarp    2617  4.8  2.8 4389868 469456 tty2   Rl+  10:57  25:15 /usr/bin/gnome-shell
+edgarp    2627  8.4  0.0 2751720 14256 ?       S<l  10:57  44:15 /usr/bin/pulseaudio --start --log-target=syslog
+root      2775  0.0  0.0      0     0 ?        S<   10:57   0:00 [krfcommd]
+edgarp    3269  0.0  0.0 451652 10380 tty2     Sl   10:57   0:07 ibus-daemon --xim --panel disable
+edgarp    3272  0.0  0.0 271560  5024 ?        Ssl  10:57   0:00 /usr/libexec/xdg-permission-store
+edgarp    3274  0.0  0.0 296792  8560 tty2     Sl   10:57   0:00 /usr/lib/ibus/ibus-dconf
+edgarp    3276  0.0  0.1 356244 22312 tty2     Sl   10:57   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+edgarp    3278  0.0  0.0 294596  8000 ?        Sl   10:57   0:00 /usr/lib/ibus/ibus-portal
+edgarp    3293  0.0  0.1 696584 22044 ?        Sl   10:57   0:00 /usr/lib/gnome-shell/gnome-shell-calendar-server
+edgarp    3300  0.0  0.0 320316 11252 ?        Ssl  10:57   0:01 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+edgarp    3321  0.0  0.1 1374424 26584 ?       Ssl  10:57   0:00 /usr/lib/evolution/evolution-source-registry
+edgarp    3322  0.0  0.0 378820  7448 ?        Ssl  10:57   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+edgarp    3327  0.0  0.0 288788  6584 ?        Ssl  10:57   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+edgarp    3331  0.0  0.0 274040  5912 ?        Ssl  10:57   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+edgarp    3335  0.0  0.1 781728 31960 ?        Sl   10:57   0:00 /usr/lib/gnome-online-accounts/goa-daemon
+edgarp    3382  0.0  0.0 319556  9844 ?        Sl   10:57   0:00 /usr/lib/gnome-online-accounts/goa-identity-service
+edgarp    3388  0.0  0.0 275868  5884 ?        Ssl  10:57   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+edgarp    3395  0.0  0.1 808456 26196 tty2     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-power
+edgarp    3396  0.0  0.0 349324 10256 tty2     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+edgarp    3397  0.0  0.0 423344  5796 tty2     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+edgarp    3398  0.0  0.0 275732  4752 tty2     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+edgarp    3399  0.0  0.0 471472 12048 tty2     Sl+  10:57   0:02 /usr/lib/gnome-settings-daemon/gsd-sharing
+edgarp    3401  0.0  0.0 466464 10052 tty2     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+edgarp    3406  0.0  0.0 343112  9696 tty2     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-sound
+edgarp    3409  0.0  0.1 504796 23516 tty2     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-xsettings
+edgarp    3414  0.0  0.1 440732 22612 tty2     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-wacom
+edgarp    3428  0.0  0.0 296656  8104 tty2     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+edgarp    3429  0.0  0.1 678276 24976 tty2     Sl+  10:57   0:02 /usr/lib/gnome-settings-daemon/gsd-color
+edgarp    3430  0.0  0.1 355868 21444 tty2     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-clipboard
+edgarp    3433  0.0  0.0 374700  8800 tty2     Sl+  10:57   0:01 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+edgarp    3434  0.0  0.0 476604 15344 tty2     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+edgarp    3435  0.0  0.1 1214748 25540 tty2    Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-media-keys
+edgarp    3439  0.0  0.1 516620 22808 tty2     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-keyboard
+edgarp    3440  0.0  0.0 296664  8064 tty2     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+edgarp    3490  0.0  0.0 508768 12444 tty2     Sl+  10:57   0:00 /usr/lib/gnome-settings-daemon/gsd-printer
+edgarp    3494  0.0  0.0 271932  6872 tty2     Sl+  10:57   0:00 /usr/lib/gnome-disk-utility/gsd-disk-utility-notify
+edgarp    3497  0.0  0.1 589696 18608 tty2     SNl+ 10:57   0:00 /usr/lib/tracker/tracker-miner-apps
+edgarp    3505  0.0  0.0 391684  9764 tty2     Sl+  10:57   0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+edgarp    3506  0.0  0.1 663964 24604 ?        Ssl  10:57   0:00 /usr/lib/tracker/tracker-store
+edgarp    3508  0.0  0.0 188020  5284 ?        Sl   10:57   0:00 /usr/lib/dconf/dconf-service
+edgarp    3512  0.0  0.4 894376 67476 ?        Ssl  10:57   0:00 /usr/lib/evolution/evolution-calendar-factory
+edgarp    3513  0.0  0.1 1618572 32452 tty2    SNl+ 10:57   0:00 /usr/lib/tracker/tracker-extract
+edgarp    3518  0.0  0.4 828068 65076 tty2     Sl+  10:57   0:01 nautilus-desktop
+edgarp    3524  0.0  0.1 617316 24480 tty2     SNl+ 10:57   0:00 /usr/lib/tracker/tracker-miner-fs
+edgarp    3548  0.0  0.0 220928  7984 tty2     Sl   10:57   0:01 /usr/lib/ibus/ibus-engine-simple
+edgarp    3609  0.0  0.0 384280 10080 ?        Sl   10:58   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.7 /org/gtk/gvfs/exec_spaw/0
+edgarp    3643  0.0  0.3 1142860 63244 ?       Sl   10:58   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx3512x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/3512/2
+edgarp    3658  0.0  0.1 735004 24416 ?        Ssl  10:58   0:00 /usr/lib/evolution/evolution-addressbook-factory
+edgarp    3666  0.0  0.1 876408 27008 ?        Sl   10:58   0:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx3658x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/3658/2
+edgarp    3747  0.0  0.0 204572  5976 ?        Ssl  10:58   0:00 /usr/lib/gvfs/gvfsd-metadata
+edgarp    3848  0.0  1.0 1349560 175040 ?      SLl  10:58   0:06 /usr/bin/gnome-software --gapplication-service
+edgarp    3908  0.0  0.0  24564  3212 tty2     Sl+  10:58   0:00 /usr/bin/zoom
+edgarp    3945  0.0  0.0   4624   800 tty2     S+   10:58   0:00 sh -c export SSB_HOME=/home/edgarp/.zoom; export QSG_INFO=1; export LD_LIBRARY_PATH=/opt/zoom; export BREAKPAD_CLIENT_FD=3; /opt/zoom/zoom ""
+edgarp    3946 32.4  7.7 6676440 1254948 tty2  SLl+ 10:58 169:11 /opt/zoom/zoom
+root      4000  0.0  0.1 642648 22352 ?        Ssl  10:58   0:00 /usr/lib/fwupd/fwupd
+edgarp    4303  0.0  0.1 651380 32516 tty2     Sl+  10:58   0:00 update-notifier
+edgarp    4545  1.2  4.2 1977044 697300 tty2   SLl+ 10:59   6:16 /opt/google/chrome/chrome
+edgarp    4551  0.0  0.0  14712   844 tty2     S+   10:59   0:00 cat
+edgarp    4552  0.0  0.0  14712   740 tty2     S+   10:59   0:00 cat
+edgarp    4555  0.0  0.3 455056 60612 tty2     S+   10:59   0:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d,
+edgarp    4556  0.0  0.0  27220  4220 tty2     S+   10:59   0:00 /opt/google/chrome/nacl_helper
+edgarp    4559  0.0  0.0 455056 15648 tty2     S+   10:59   0:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d,
+edgarp    4589  3.6  1.6 783616 261684 tty2    Sl+  10:59  18:47 /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=18231462631036535826,7861682338777421099,131072 --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --gpu-preferences=KAAAAAAAAAAgAAAgAAAAAAAAYAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA --shared-files
+edgarp    4598  0.3  0.6 625396 111780 tty2    SLl+ 10:59   1:58 /opt/google/chrome/chrome --type=utility --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --service-sandbox-type=network --disable-webrtc-apm-in-audio-service --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --shared-files
+edgarp    5063  1.0  0.7 4848644 118152 tty2   Sl+  10:59   5:34 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --instant-process --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=8 --no-v8-untrusted-code-mitigations --shared-files
+edgarp    5136  0.0  0.9 4864432 150496 tty2   Sl+  10:59   0:16 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --extension-process --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --no-v8-untrusted-code-mitigations --shared-files
+edgarp    5248  0.0  0.5 4793892 82912 tty2    Sl+  10:59   0:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --extension-process --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files
+edgarp    5459  0.0  0.7 4847100 114324 tty2   Sl+  10:59   0:09 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=13 --no-v8-untrusted-code-mitigations --shared-files
+edgarp    5679  0.0  0.2 793044 33420 tty2     Sl+  10:59   0:00 /usr/lib/deja-dup/deja-dup-monitor
+edgarp    6498  0.0  1.0 4898424 167884 tty2   Sl+  11:00   0:15 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=34 --no-v8-untrusted-code-mitigations --shared-files
+edgarp    6522  0.1  0.7 4851316 116796 tty2   Sl+  11:00   0:35 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=37 --no-v8-untrusted-code-mitigations --shared-files
+edgarp    7481  0.0  0.9 4878992 148456 tty2   Sl+  11:01   0:15 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=46 --no-v8-untrusted-code-mitigations --shared-files
+edgarp    7615  0.0  0.9 4895640 154864 tty2   Sl+  11:01   0:11 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=56 --no-v8-untrusted-code-mitigations --shared-files
+root      9062  0.0  0.0 107692  8096 ?        Ss   11:02   0:00 /usr/sbin/cupsd -l
+root      9063  0.0  0.0 303660 11012 ?        Ssl  11:02   0:00 /usr/sbin/cups-browsed
+edgarp    9193  1.5  1.7 5075732 278720 tty2   Sl+  11:04   8:09 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=63 --no-v8-untrusted-code-mitigations --shared-files
+edgarp    9224  0.0  0.6 4842668 112812 tty2   Sl+  11:04   0:09 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=66 --no-v8-untrusted-code-mitigations --shared-files
+edgarp    9335  0.2  1.3 4974744 223376 tty2   Sl+  11:08   1:29 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=68 --no-v8-untrusted-code-mitigations --shared-files
+edgarp    9417  0.0  0.0 359644 10232 ?        Sl   11:11   0:00 /usr/lib/gvfs/gvfsd-http --spawner :1.7 /org/gtk/gvfs/exec_spaw/1
+edgarp    9617  0.1  1.3 4936696 212864 tty2   Sl+  11:17   0:38 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=71 --no-v8-untrusted-code-mitigations --shared-files
+edgarp    9882  0.2  1.2 5003092 205276 tty2   Sl+  11:23   1:24 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=79 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   10157  0.0  0.5 4810608 89864 tty2    Sl+  11:40   0:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=81 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   10192  0.0  0.5 4815724 90092 tty2    Sl+  11:40   0:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=82 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   10253  0.0  0.6 4842524 109044 tty2   Sl+  11:42   0:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=83 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   10329  0.0  0.9 4870780 154208 tty2   Sl+  11:42   0:22 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=85 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   10614  0.0  1.0 4917700 173348 tty2   Sl+  11:56   0:16 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=99 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   11635  0.0  0.9 4869884 148776 tty2   Sl+  12:19   0:06 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=136 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   11671  0.0  0.8 4867580 144016 tty2   Sl+  12:19   0:06 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=138 --no-v8-untrusted-code-mitigations --shared-files
+root     12035  0.0  0.0      0     0 ?        S<   12:28   0:00 [loop27]
+edgarp   13143  5.9  3.7 26347412 613224 tty2  Sl+  13:22  22:30 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=159 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13173  0.0  0.7 4844916 120372 tty2   Sl+  13:23   0:14 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=160 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13206  0.0  0.7 4835868 115592 tty2   Sl+  13:23   0:07 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=162 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13236  0.0  0.5 4812652 87244 tty2    Sl+  13:23   0:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=164 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13262  0.0  0.5 4814704 91496 tty2    Sl+  13:23   0:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=166 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13289  0.0  0.6 4823456 103228 tty2   Sl+  13:23   0:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=168 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13318  0.0  0.5 4812644 87552 tty2    Sl+  13:23   0:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=170 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13333  0.0  0.6 4851736 100180 tty2   Sl+  13:23   0:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=171 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13346  0.0  0.5 4814712 90388 tty2    Sl+  13:23   0:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=172 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13377  0.0  0.6 4826380 105976 tty2   Sl+  13:23   0:13 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=174 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13403  0.0  0.5 4812652 87120 tty2    Sl+  13:23   0:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=176 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13420  0.0  0.5 4812652 87332 tty2    Sl+  13:23   0:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=177 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13421  0.0  0.5 4812644 85492 tty2    Sl+  13:23   0:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=178 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13426  0.0  0.5 4813676 86252 tty2    Sl+  13:23   0:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=179 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13433  0.0  0.5 4812644 85524 tty2    Sl+  13:23   0:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=180 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13583  0.0  0.5 4812652 84988 tty2    Sl+  13:23   0:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=185 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13597  0.0  0.5 4810596 82052 tty2    Sl+  13:23   0:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=186 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13658  0.1  0.6 4835636 107556 tty2   Sl+  13:23   0:27 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=190 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13674  1.4  0.7 4873144 117744 tty2   Sl+  13:23   5:19 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=191 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   13687  0.0  0.6 4822836 103248 tty2   Sl+  13:23   0:04 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=192 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   15276  0.2  1.0 4969552 165292 tty2   Sl+  13:49   0:43 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=252 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   15429  0.0  0.8 4874612 139776 tty2   Sl+  13:51   0:03 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --extension-process --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=260 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   15444  0.0  0.3 4714840 56104 tty2    Sl+  13:51   0:00 /opt/google/chrome/chrome --type=ppapi --field-trial-handle=18231462631036535826,7861682338777421099,131072 --ppapi-flash-args --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --shared-files
+edgarp   15468  0.0  0.0 444136  7428 ?        Sl   13:51   0:00 /usr/lib/gvfs/gvfsd-network --spawner :1.7 /org/gtk/gvfs/exec_spaw/3
+edgarp   15479  0.0  0.1 774496 18236 ?        Sl   13:51   0:00 /usr/lib/gvfs/gvfsd-smb-browse --spawner :1.7 /org/gtk/gvfs/exec_spaw/5
+edgarp   15489  0.0  0.0 455024  7740 ?        Sl   13:51   0:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.7 /org/gtk/gvfs/exec_spaw/6
+root     16727  0.0  0.0      0     0 ?        S    18:19   0:00 [irq/129-mei_me]
+root     16887  0.0  0.0  25988  6328 ?        S    18:19   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/dhclient-wlp60s0.pid -lf /var/lib/NetworkManager/dhclient-b5a317b4-e417-4b14-9b23-00c9ebb23d28-wlp60s0.lease -cf /var/lib/NetworkManager/dhclient-wlp60s0.conf wlp60s0
+edgarp   17012  0.1  0.2 819660 41536 ?        Ssl  18:20   0:06 /usr/lib/gnome-terminal/gnome-terminal-server
+edgarp   17022  0.0  0.0  30052  5496 pts/0    Ss   18:20   0:00 bash
+edgarp   17210  0.2  0.2 740188 43488 tty2     Sl+  18:21   0:10 /opt/cisco/anyconnect/bin/vpnui
+root     19090  0.0  0.0      0     0 ?        I    18:43   0:01 [kworker/6:0-eve]
+edgarp   19102 35.1  2.2 5325636 358776 tty2   Sl+  18:44  19:29 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=281 --no-v8-untrusted-code-mitigations --shared-files
+root     19131  0.0  0.0      0     0 ?        I    18:44   0:01 [kworker/2:2-eve]
+edgarp   19185  0.8  0.3 763400 55016 tty2     Sl+  18:44   0:26 /opt/google/chrome/chrome --type=utility --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --service-sandbox-type=audio --disable-webrtc-apm-in-audio-service --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --shared-files
+root     19791  0.2  0.0      0     0 ?        I<   19:07   0:05 [kworker/u17:1-r]
+root     19841  0.0  0.0      0     0 ?        I    19:11   0:01 [kworker/u16:0-e]
+root     19847  0.0  0.0      0     0 ?        I    19:12   0:00 [kworker/0:2-eve]
+root     20046  0.0  0.0      0     0 ?        I    19:19   0:00 [kworker/5:0-eve]
+root     20055  0.1  0.0      0     0 ?        I    19:19   0:01 [kworker/4:2-eve]
+root     20200  0.0  0.0      0     0 ?        I    19:20   0:00 [kworker/1:2-eve]
+root     20285  0.0  0.0      0     0 ?        I    19:21   0:00 [kworker/7:0-eve]
+root     20424  0.0  0.0      0     0 ?        I<   19:23   0:00 [kworker/u17:0-r]
+root     20556  0.0  0.0      0     0 ?        I    19:26   0:00 [kworker/5:2-eve]
+root     20557  0.0  0.0      0     0 ?        I    19:26   0:00 [kworker/1:0-eve]
+root     20561  0.0  0.0      0     0 ?        I    19:26   0:00 [kworker/6:2-eve]
+root     20574  0.0  0.0      0     0 ?        I    19:26   0:00 [kworker/3:1-eve]
+root     20578  0.0  0.0      0     0 ?        I    19:26   0:00 [kworker/3:3-eve]
+root     20583  0.0  0.0      0     0 ?        I    19:26   0:00 [kworker/7:2-mm_]
+root     20662  0.0  0.0      0     0 ?        I    19:27   0:00 [kworker/4:0-eve]
+edgarp   20726  0.7  0.7 852240 120584 ?       Ssl  19:28   0:04 /snap/code/27/usr/share/code/code --force-user-env --no-sandbox --unity-launch --no-sandbox
+edgarp   20728  0.0  0.2 351872 40468 ?        S    19:28   0:00 /snap/code/27/usr/share/code/code --type=zygote --no-sandbox
+edgarp   20762  0.5  0.4 409324 74180 ?        Sl   19:28   0:03 /snap/code/27/usr/share/code/code --type=gpu-process --field-trial-handle=1060389350505170743,6535259312414553477,131072 --disable-features=LayoutNG,PictureInPicture,SpareRendererForSitePerProcess --disable-color-correct-rendering --no-sandbox --gpu-preferences=KAAAAAAAAAAgAAAgAAAAAAAAYAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA --use-gl=swiftshader-webgl --service-request-channel-token=13265078314989035567
+edgarp   20763  0.0  0.3 437436 58340 ?        Sl   19:28   0:00 /snap/code/27/usr/share/code/code --type=utility --field-trial-handle=1060389350505170743,6535259312414553477,131072 --disable-features=LayoutNG,PictureInPicture,SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=network --no-sandbox --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --service-request-channel-token=16194294508046096342 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+edgarp   20779  3.3  1.5 1275344 251584 ?      SLl  19:28   0:22 /snap/code/27/usr/share/code/code --type=renderer --disable-color-correct-rendering --no-sandbox --field-trial-handle=1060389350505170743,6535259312414553477,131072 --disable-features=LayoutNG,PictureInPicture,SpareRendererForSitePerProcess --disable-gpu-compositing --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/snap/code/27/usr/share/code/resources/app --node-integration --webview-tag --no-sandbox --no-zygote --background-color=#1e1e1e --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=14268062207701879908 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+edgarp   20820  0.2  0.6 750992 113416 ?       Sl   19:28   0:01 /snap/code/27/usr/share/code/code --type=renderer --disable-color-correct-rendering --no-sandbox --field-trial-handle=1060389350505170743,6535259312414553477,131072 --disable-features=LayoutNG,PictureInPicture,SpareRendererForSitePerProcess --disable-gpu-compositing --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/snap/code/27/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=14195959723548251476 --renderer-client-id=8 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+edgarp   20847  0.4  1.0 730640 167072 ?       Sl   19:28   0:02 /snap/code/27/usr/share/code/code --inspect-port=0 /snap/code/27/usr/share/code/resources/app/out/bootstrap-fork --type=extensionHost
+edgarp   20855  0.0  0.0  29820  5176 pts/1    Ss+  19:28   0:00 /bin/bash
+edgarp   20875  0.0  0.4 560476 68364 ?        Rl   19:28   0:00 /snap/code/27/usr/share/code/code /snap/code/27/usr/share/code/resources/app/out/bootstrap-fork --type=watcherService
+edgarp   20891  0.0  0.4 559500 67244 ?        Sl   19:28   0:00 /snap/code/27/usr/share/code/code /snap/code/27/usr/share/code/resources/app/out/bootstrap-fork --type=searchService
+edgarp   20910  0.1  0.1 1234848 22752 ?       Sl   19:28   0:00 /home/edgarp/.vscode/extensions/ms-vscode.cpptools-0.26.3/bin/Microsoft.VSCode.CPP.Extension.linux
+edgarp   20911  0.3  0.9 642128 150460 ?       Sl   19:28   0:02 /snap/code/27/usr/share/code/code /home/edgarp/.vscode/extensions/streetsidesoftware.code-spell-checker-1.8.0/server/server.js --node-ipc --clientProcessId=20847
+edgarp   21097  2.6  0.7 852172 127548 tty2    Sl+  19:28   0:17 /snap/discord/109/usr/share/discord/Discord --no-sandbox
+edgarp   21123  0.0  0.0 569260  6068 ?        Ssl  19:28   0:00 /usr/libexec/xdg-document-portal
+edgarp   21210  0.0  0.2 371064 39616 tty2     S+   19:28   0:00 /snap/discord/109/usr/share/discord/Discord --type=zygote --no-sandbox
+edgarp   21234  5.0  0.5 521976 90780 tty2     Sl+  19:28   0:32 /snap/discord/109/usr/share/discord/Discord --type=gpu-process --field-trial-handle=13977500486456115751,15046557385404411394,131072 --disable-features=SpareRendererForSitePerProcess --no-sandbox --gpu-preferences=KAAAAAAAAAAgAAAgAAAAAAAAYAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA --service-request-channel-token=3520124942173789709
+edgarp   21240  0.1  0.3 463108 58756 tty2     Sl+  19:28   0:01 /snap/discord/109/usr/share/discord/Discord --type=utility --field-trial-handle=13977500486456115751,15046557385404411394,131072 --disable-features=SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=network --no-sandbox --service-request-channel-token=10118610632517136064 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+edgarp   21280 25.7  1.8 1543856 298212 tty2   Sl+  19:28   2:45 /snap/discord/109/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=13977500486456115751,15046557385404411394,131072 --disable-features=SpareRendererForSitePerProcess --lang=en-US --app-path=/snap/discord/109/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/edgarp/snap/discord/109/.config/discord/0.0.10/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --background-color=#202225 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=12328801616203382357 --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+edgarp   21313  0.0  0.2 706852 46496 tty2     Sl+  19:28   0:00 /snap/discord/109/usr/share/discord/Discord --type=utility --field-trial-handle=13977500486456115751,15046557385404411394,131072 --disable-features=SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=audio --no-sandbox --service-request-channel-token=5954099300736100640 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+root     21546  0.0  0.0      0     0 ?        I    19:29   0:00 [kworker/u16:3-e]
+edgarp   21565  1.6  0.7 4869060 117952 tty2   Sl+  19:29   0:10 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=296 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   21580  0.0  0.3 4795436 55408 tty2    Sl+  19:29   0:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=18231462631036535826,7861682338777421099,131072 --lang=en-US --enable-crash-reporter=f65bd605-664d-4c7c-9268-3b18c489af9d, --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=297 --no-v8-untrusted-code-mitigations --shared-files
+edgarp   21980  0.0  0.3 4966788 61820 ?       Sl   19:31   0:00 /home/edgarp/.vscode/extensions/ms-vscode.cpptools-0.26.3/bin/Microsoft.VSCode.CPP.IntelliSense.Msvc.linux 20910 1
+root     22009  0.0  0.0      0     0 ?        I    19:32   0:00 [kworker/u16:4-e]
+root     22076  0.0  0.0      0     0 ?        I    19:33   0:00 [kworker/2:1-mm_]
+root     22077  0.0  0.0      0     0 ?        I    19:33   0:00 [kworker/0:0-eve]
+root     22092  0.0  0.0      0     0 ?        I    19:34   0:00 [kworker/6:1-eve]
+root     22093  0.1  0.0      0     0 ?        I    19:34   0:00 [kworker/3:0-eve]
+root     22096  0.0  0.0      0     0 ?        I    19:35   0:00 [kworker/4:1-mm_]
+edgarp   22349  0.0  0.0  22484  3780 pts/0    S+   19:38   0:00 ./shell
+root     22360  0.0  0.0      0     0 ?        I    19:39   0:00 [kworker/u16:1-e]
+edgarp   22367  0.0  0.0  46768  3564 pts/0    R+   19:39   0:00 ps aux
